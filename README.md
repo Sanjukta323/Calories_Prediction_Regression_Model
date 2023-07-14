@@ -1,1 +1,3 @@
-# Calories_Prediction_Regression_Model
+# Calories_Burn_Prediction_Model
+
+I've developed an advanced Calories Prediction Regression Model that harnesses the power of exercise data to accurately estimate calorie burn. By analyzing personal exercise activities, my model provides individuals with personalized insights into their energy expenditure. This groundbreaking approach empowers users to optimize their fitness routines and make informed decisions about their dietary needs. With this innovative tool, I aim to revolutionize the way people track their calorie burn, helping them achieve their health and wellness goals more effectively.
